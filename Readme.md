@@ -36,23 +36,23 @@ The [`units/`](units/) folder contains the schedule for course activities, and a
 		* Day 13: 
 		* Day 14: 
 		* Day 15: 
-	* Week 6: Wikis
+	* Week 6: Markdown
 		* Day 16: 
 		* Day 17: 
 		* Day 18: 
-	* Week 7: Markdown
+	* Week 7: Wikis
 		* Day 19: 
 		* Day 20: 
 		* Day 21: 
-	* Week 8: Jekyll
+	* Week 8: Twine
 		* Day 22: 
 		* Day 23: 
 		* Day 24: 
-	* Week 9: Twine
+	* Week 9: Tracery
 		* Day 25: 
 		* Day 26: 
 		* Day 27: 
-	* Week 10: Tracery
+	* Week 10: Jekyll
 		* Day 28: 
 		* Day 29: 
 		* Day 30: 
