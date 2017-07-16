@@ -32,27 +32,27 @@ The [`units/`](units/) folder contains the schedule for course activities, and a
 		* Day 11: 
 		* Day 12: 
 * **Unit 2: Tools**
-	* Week 5: GitHub
+	* Week 5: Google Drive, GitHub, Dropbox
 		* Day 13: 
 		* Day 14: 
 		* Day 15: 
-	* Week 6: Markdown
+	* Week 6: Wikis
 		* Day 16: 
 		* Day 17: 
 		* Day 18: 
-	* Week 7: Twine
+	* Week 7: Markdown
 		* Day 19: 
 		* Day 20: 
 		* Day 21: 
-	* Week 8: Tracery
+	* Week 8: Jekyll
 		* Day 22: 
 		* Day 23: 
 		* Day 24: 
-	* Week 9: Podcasting
+	* Week 9: Twine
 		* Day 25: 
 		* Day 26: 
 		* Day 27: 
-	* Week 10: Audacity
+	* Week 10: Tracery
 		* Day 28: 
 		* Day 29: 
 		* Day 30: 
