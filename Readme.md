@@ -17,16 +17,16 @@ The [`units/`](units/) folder contains the schedule for course activities, and a
 * **Unit 1: Theory**
 	* Week 1: Getting Started
 		* Day 01: Course Overview
-		* Day 02: 
-		* Day 03: 
-	* Week 2: 
-		* Day 04: 
+		* Day 02: Vannevar Bush, ["As We May Think"](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
+		* Day 03: Vannevar Bush
+	* Week 2: Computerized Knowledge
+		* Day 04: Steven Levy, ["A Spreadsheet Way of Knowledge"](https://www.wired.com/2014/10/a-spreadsheet-way-of-knowledge/)
 		* Day 05: 
-		* Day 06: 
-	* Week 3: 
-		* Day 07: 
+		* Day 06: Finish Levy /  
+	* Week 3: Digital Texts
+		* Day 07: Richard A Lanham, ["The Electronic Word: Literary Study and the Digital Revolution"](https://www.jstor.org.ezproxy.library.tamu.edu/stable/469101?seq=1)
 		* Day 08: 
-		* Day 09:
+		* Day 09: Finish Lanham / 
 	* Week 4: 
 		* Day 10: 
 		* Day 11: 
@@ -76,3 +76,9 @@ The [`units/`](units/) folder contains the schedule for course activities, and a
 	* Week 15: Project Demo Days
 		* Day 43: 
 		* Day 44: 
+
+## To Read
+
+* https://help.github.com/articles/about-github-wikis/
+* https://help.github.com/articles/what-is-a-good-git-workflow/
+* https://github.com/hkpeterpeter/my-team-workflow
