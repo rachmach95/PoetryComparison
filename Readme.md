@@ -18,7 +18,7 @@ The [`units/`](units/) folder contains the schedule for course activities, and a
 	* Week 1: Getting Started
 		* Day 01: Course Overview
 		* Day 02: Vannevar Bush, ["As We May Think"](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
-		* Day 03: Vannevar Bush
+		* Day 03: Finish Vannevar Bush
 	* Week 2: Computerized Knowledge
 		* Day 04: Alan C. Kay, ["A Personal Computer For Children of All Ages"](https://www.mprove.de/diplom/gui/kay72.html)
 		* Day 05: Steven Levy, ["A Spreadsheet Way of Knowledge"](https://www.wired.com/2014/10/a-spreadsheet-way-of-knowledge/)
@@ -31,28 +31,28 @@ The [`units/`](units/) folder contains the schedule for course activities, and a
 		* Day 10: [Karine Nahon and Jeff Hemsley, "Networked Changed Societies" in *Going Viral*](http://ebookcentral.proquest.com.ezproxy.library.tamu.edu/lib/tamucs/reader.action?docID=1578387)
 		* Day 11: Ian Bogost, "Procedural Rhetoric" from *Persuasive Games*
 		* Day 12: Finish Nahon and Hemsley / Bogost
-* **Unit 2: Tools**
-	* Week 5: Google Drive, GitHub, Dropbox
+	* Week 5: 
 		* Day 13: 
 		* Day 14: 
 		* Day 15: 
-	* Week 6: Markdown
+* **Unit 2: Tools**
+	* Week 6: Google Drive, GitHub, Dropbox
 		* Day 16: 
 		* Day 17: 
 		* Day 18: 
-	* Week 7: Wikis
+	* Week 7: Markdown
 		* Day 19: 
 		* Day 20: 
 		* Day 21: 
-	* Week 8: Twine
+	* Week 8: Jekyll
 		* Day 22: 
 		* Day 23: 
 		* Day 24: 
-	* Week 9: Tracery
+	* Week 9: Twine
 		* Day 25: 
 		* Day 26: 
 		* Day 27: 
-	* Week 10: Jekyll
+	* Week 10: Tracery
 		* Day 28: 
 		* Day 29: 
 		* Day 30: 
