@@ -20,17 +20,17 @@ The [`units/`](units/) folder contains the schedule for course activities, and a
 		* Day 02: Vannevar Bush, ["As We May Think"](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 		* Day 03: Vannevar Bush
 	* Week 2: Computerized Knowledge
-		* Day 04: Steven Levy, ["A Spreadsheet Way of Knowledge"](https://www.wired.com/2014/10/a-spreadsheet-way-of-knowledge/)
-		* Day 05: 
-		* Day 06: Finish Levy /  
-	* Week 3: Digital Texts
+		* Day 04: Alan C. Kay, ["A Personal Computer For Children of All Ages"](https://www.mprove.de/diplom/gui/kay72.html)
+		* Day 05: Steven Levy, ["A Spreadsheet Way of Knowledge"](https://www.wired.com/2014/10/a-spreadsheet-way-of-knowledge/)
+		* Day 06: Finish Kay / Levy
+	* Week 3: Forms of Digital Texts I
 		* Day 07: Richard A Lanham, ["The Electronic Word: Literary Study and the Digital Revolution"](https://www.jstor.org.ezproxy.library.tamu.edu/stable/469101?seq=1)
-		* Day 08: 
-		* Day 09: Finish Lanham / 
-	* Week 4: 
-		* Day 10: 
-		* Day 11: 
-		* Day 12: 
+		* Day 08: Lev Manovich, "The Database" from *The Language of New Media*
+		* Day 09: Finish Lanham / Manovich
+	* Week 4: Forms of Digital Text II
+		* Day 10: [Karine Nahon and Jeff Hemsley, "Networked Changed Societies" in *Going Viral*](http://ebookcentral.proquest.com.ezproxy.library.tamu.edu/lib/tamucs/reader.action?docID=1578387)
+		* Day 11: Ian Bogost, "Procedural Rhetoric" from *Persuasive Games*
+		* Day 12: Finish Nahon and Hemsley / Bogost
 * **Unit 2: Tools**
 	* Week 5: Google Drive, GitHub, Dropbox
 		* Day 13: 
@@ -57,25 +57,25 @@ The [`units/`](units/) folder contains the schedule for course activities, and a
 		* Day 29: 
 		* Day 30: 
 * **Unit 3: Practice**
-	* Week 11: 
+	* Week 11: Finding a Project
 		* Day 31: 
 		* Day 32: 
-		* Day 33: 
-	* Week 12:
+		* Day 33: Work in Teams
+	* Week 12: Sharing Digital Work
 		* Day 34: 
 		* Day 35: 
-		* Day 36: 
+		* Day 36: Work in Teams
 	* Week 13: Thanksgiving
 		* Day 37: Work in Teams
 		* Day 38: Thanksgiving Break (No Class)
 		* Day 39: Thanksgiving Break (No Class)
 	* Week 14:
-		* Day 40: 
-		* Day 41: 
-		* Day 42: 
+		* Day 40: In-Class Consultations
+		* Day 41: In-Class Consultations
+		* Day 42: Demos!
 	* Week 15: Project Demo Days
-		* Day 43: 
-		* Day 44: 
+		* Day 43: Demos!
+		* Day 44: Demos!
 
 ## To Read
 
