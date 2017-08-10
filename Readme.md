@@ -23,18 +23,18 @@ The [`units/`](units/) folder contains the schedule for course activities, and a
 		* Day 04: Alan C. Kay, ["A Personal Computer For Children of All Ages"](https://www.mprove.de/diplom/gui/kay72.html)
 		* Day 05: Steven Levy, ["A Spreadsheet Way of Knowledge"](https://www.wired.com/2014/10/a-spreadsheet-way-of-knowledge/)
 		* Day 06: Finish Kay / Levy
-	* Week 3: Forms of Digital Texts I
-		* Day 07: Richard A Lanham, ["The Electronic Word: Literary Study and the Digital Revolution"](https://www.jstor.org.ezproxy.library.tamu.edu/stable/469101?seq=1)
-		* Day 08: Lev Manovich, "The Database" from *The Language of New Media*
-		* Day 09: Finish Lanham / Manovich
-	* Week 4: Forms of Digital Text II
-		* Day 10: [Karine Nahon and Jeff Hemsley, "Networked Changed Societies" in *Going Viral*](http://ebookcentral.proquest.com.ezproxy.library.tamu.edu/lib/tamucs/reader.action?docID=1578387)
-		* Day 11: Ian Bogost, "Procedural Rhetoric" from *Persuasive Games*
-		* Day 12: Finish Nahon and Hemsley / Bogost
-	* Week 5: 
-		* Day 13: 
-		* Day 14: 
-		* Day 15: 
+	* Week 3: 
+		* Day 07: 
+		* Day 08: 
+		* Day 09: 
+	* Week 4: Forms of Digital Texts I
+		* Day 10: Richard A Lanham, ["The Electronic Word: Literary Study and the Digital Revolution"](https://www.jstor.org.ezproxy.library.tamu.edu/stable/469101?seq=1)
+		* Day 11: Lev Manovich, "The Database" from *The Language of New Media*
+		* Day 12: Finish Lanham / Manovich
+	* Week 5: Forms of Digital Text II
+		* Day 13: [Karine Nahon and Jeff Hemsley, "Networked Changed Societies" in *Going Viral*](http://ebookcentral.proquest.com.ezproxy.library.tamu.edu/lib/tamucs/reader.action?docID=1578387)
+		* Day 14: Ian Bogost, "Procedural Rhetoric" from *Persuasive Games*
+		* Day 15: Finish Nahon and Hemsley / Bogost
 * **Unit 2: Tools**
 	* Week 6: Google Drive, GitHub, Dropbox
 		* Day 16: 
