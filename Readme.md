@@ -23,47 +23,47 @@ The [`units/`](units/) folder contains the schedule for course activities, and a
 		* Day 04: Alan C. Kay, ["A Personal Computer For Children of All Ages"](https://www.mprove.de/diplom/gui/kay72.html)
 		* Day 05: Steven Levy, ["A Spreadsheet Way of Knowledge"](https://www.wired.com/2014/10/a-spreadsheet-way-of-knowledge/)
 		* Day 06: Finish Kay / Levy
-	* Week 3: 
-		* Day 07: 
-		* Day 08: 
-		* Day 09: 
-	* Week 4: Forms of Digital Texts I
-		* Day 10: Richard A Lanham, ["The Electronic Word: Literary Study and the Digital Revolution"](https://www.jstor.org.ezproxy.library.tamu.edu/stable/469101?seq=1)
-		* Day 11: Lev Manovich, "The Database" from *The Language of New Media*
-		* Day 12: Finish Lanham / Manovich
-	* Week 5: Forms of Digital Text II
-		* Day 13: [Karine Nahon and Jeff Hemsley, "Networked Changed Societies" in *Going Viral*](http://ebookcentral.proquest.com.ezproxy.library.tamu.edu/lib/tamucs/reader.action?docID=1578387)
-		* Day 14: Ian Bogost, "Procedural Rhetoric" from *Persuasive Games*
-		* Day 15: Finish Nahon and Hemsley / Bogost
+	* Week 3: Forms of Digital Texts I
+		* Day 07: Richard A Lanham, ["The Electronic Word: Literary Study and the Digital Revolution"](https://www.jstor.org.ezproxy.library.tamu.edu/stable/469101?seq=1)
+		* Day 08: Lev Manovich, "The Database" from *The Language of New Media*
+		* Day 09: Finish Lanham / Manovich
+	* Week 4: Forms of Digital Text II
+		* Day 10: [Karine Nahon and Jeff Hemsley, "Networked Changed Societies" in *Going Viral*](http://ebookcentral.proquest.com.ezproxy.library.tamu.edu/lib/tamucs/reader.action?docID=1578387)
+		* Day 11: Ian Bogost, "Procedural Rhetoric" from *Persuasive Games*
+		* Day 12: 
 * **Unit 2: Tools**
-	* Week 6: Google Drive, GitHub, Dropbox
+	* Week 5: Google Drive, GitHub, Dropbox
+		* Day 13: 
+		* Day 14: 
+		* Day 15: 
+	* Week 6: Markdown
 		* Day 16: 
 		* Day 17: 
 		* Day 18: 
-	* Week 7: Markdown
+	* Week 7: Jekyll
 		* Day 19: 
 		* Day 20: 
 		* Day 21: 
-	* Week 8: Jekyll
+	* Week 8: Twine
 		* Day 22: 
 		* Day 23: 
 		* Day 24: 
-	* Week 9: Twine
+	* Week 9: Tracery
 		* Day 25: 
 		* Day 26: 
 		* Day 27: 
-	* Week 10: Tracery
+* **Unit 3: Practice**
+	* Week 10: Finding a Project
 		* Day 28: 
 		* Day 29: 
-		* Day 30: 
-* **Unit 3: Practice**
-	* Week 11: Finding a Project
+		* Day 30: Work in Teams
+	* Week 11: Sharing Digital Work
 		* Day 31: 
 		* Day 32: 
 		* Day 33: Work in Teams
-	* Week 12: Sharing Digital Work
-		* Day 34: 
-		* Day 35: 
+	* Week 12: Working With Groups
+		* Day 34: Work in Teams
+		* Day 35: Work in Teams
 		* Day 36: Work in Teams
 	* Week 13: Thanksgiving
 		* Day 37: Work in Teams
