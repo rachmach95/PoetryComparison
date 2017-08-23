@@ -1,4 +1,4 @@
-# Day 2 -- Vannevar Bush
+# Day 2 – Vannevar Bush
 
 ## Reading
 
