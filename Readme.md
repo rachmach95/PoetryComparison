@@ -15,65 +15,65 @@ The [`units/`](units/) folder contains the schedule for course activities, and a
 ## Schedule
 
 * **Unit 1: Theory**
-	* Week 1: Getting Started
+	* [Week 1: Getting Started](units/01-theory/01-starting/)
 		* Day 01: Course Overview
 		* Day 02: Vannevar Bush, ["As We May Think"](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 		* Day 03: Writing Modes
-	* Week 2: Computerized Knowledge
+	* [Week 2: Computerized Knowledge](units/01-theory/02-knowledge)
 		* Day 04: Alan C. Kay, ["A Personal Computer For Children of All Ages"](https://www.mprove.de/diplom/gui/kay72.html)
 		* Day 05: Steven Levy, ["A Spreadsheet Way of Knowledge"](https://www.wired.com/2014/10/a-spreadsheet-way-of-knowledge/)
 		* Day 06: Modes & Affordances
-	* Week 3: Forms of Digital Texts I
+	* [Week 3: Forms of Digital Texts I](units/01-theory/03-texts1)
 		* Day 07: Richard A Lanham, ["The Electronic Word: Literary Study and the Digital Revolution"](https://www.jstor.org.ezproxy.library.tamu.edu/stable/469101?seq=1)
 		* Day 08: Lev Manovich, "The Database" from *The Language of New Media*
 		* Day 09: 
-	* Week 4: Forms of Digital Text II
+	* [Week 4: Forms of Digital Text II](units/01-theory/04-texts2)
 		* Day 10: [Karine Nahon and Jeff Hemsley, "Networked Changed Societies" in *Going Viral*](http://ebookcentral.proquest.com.ezproxy.library.tamu.edu/lib/tamucs/reader.action?docID=1578387)
 		* Day 11: Ian Bogost, "Procedural Rhetoric" from *Persuasive Games*
 		* Day 12: 
 * **Unit 2: Tools**
-	* Week 5: Google Drive, Dropbox, GitHub
+	* [Week 5: Google Drive, Dropbox, GitHub](units/02-tools/05-github)
 		* Day 13: Sharing is Caring
 		* Day 14: What is GitHub?
 		* Day 15: Activity / Field Reports
-	* Week 6: Markdown
+	* [Week 6: Markdown](units/02-tools/06-markdown)
 		* Day 16: 
 		* Day 17: 
 		* Day 18: 
-	* Week 7: Jekyll
+	* [Week 7: Jekyll](units/02-tools/07-jekyll)
 		* Day 19: 
 		* Day 20: 
 		* Day 21: 
-	* Week 8: Twine
+	* [Week 8: Twine](units/02-tools/08-twine)
 		* Day 22: 
 		* Day 23: 
 		* Day 24: 
-	* Week 9: Tracery
+	* [Week 9: Tracery](units/02-tools/09-tracery)
 		* Day 25: 
 		* Day 26: 
 		* Day 27: 
 * **Unit 3: Practice**
-	* Week 10: Finding a Project
+	* [Week 10: Finding a Project](units/03-practice/10-brainstorm)
 		* Day 28: 
 		* Day 29: 
 		* Day 30: Work in Teams
-	* Week 11: Sharing Digital Work
+	* [Week 11: Sharing Digital Work](units/03-practice/11-share)
 		* Day 31: 
 		* Day 32: 
 		* Day 33: Work in Teams
-	* Week 12: Working With Groups
+	* [Week 12: Working With Groups](units/03-practice/12-groupwork)
 		* Day 34: Work in Teams
 		* Day 35: Work in Teams
 		* Day 36: Work in Teams
-	* Week 13: Thanksgiving
+	* [Week 13: Thanksgiving](units/03-practice/13-teamwork)
 		* Day 37: Work in Teams
 		* Day 38: Thanksgiving Break (No Class)
 		* Day 39: Thanksgiving Break (No Class)
-	* Week 14:
+	* [Week 14: Finishing Up](units/03-practice/14-demos)
 		* Day 40: In-Class Consultations
 		* Day 41: In-Class Consultations
 		* Day 42: Demos!
-	* Week 15: Project Demo Days
+	* [Week 15: Project Demo Days](units/03-practice/14-demos)
 		* Day 43: Demos!
 		* Day 44: Demos!
 
