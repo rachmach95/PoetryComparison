@@ -32,10 +32,10 @@ The [`units/`](units/) folder contains the schedule for course activities, and a
 		* Day 11: Ian Bogost, "Procedural Rhetoric" from *Persuasive Games*
 		* Day 12: 
 * **Unit 2: Tools**
-	* Week 5: Google Drive, GitHub, Dropbox
-		* Day 13: 
-		* Day 14: 
-		* Day 15: 
+	* Week 5: Google Drive, Dropbox, GitHub
+		* Day 13: Sharing is Caring
+		* Day 14: What is GitHub?
+		* Day 15: Activity / Field Reports
 	* Week 6: Markdown
 		* Day 16: 
 		* Day 17: 
