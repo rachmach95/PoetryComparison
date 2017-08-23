@@ -22,7 +22,7 @@ The [`units/`](units/) folder contains the schedule for course activities, and a
 	* Week 2: Computerized Knowledge
 		* Day 04: Alan C. Kay, ["A Personal Computer For Children of All Ages"](https://www.mprove.de/diplom/gui/kay72.html)
 		* Day 05: Steven Levy, ["A Spreadsheet Way of Knowledge"](https://www.wired.com/2014/10/a-spreadsheet-way-of-knowledge/)
-		* Day 06: 
+		* Day 06: Modes & Affordances
 	* Week 3: Forms of Digital Texts I
 		* Day 07: Richard A Lanham, ["The Electronic Word: Literary Study and the Digital Revolution"](https://www.jstor.org.ezproxy.library.tamu.edu/stable/469101?seq=1)
 		* Day 08: Lev Manovich, "The Database" from *The Language of New Media*
