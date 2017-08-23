@@ -2,6 +2,24 @@
 
 Any course syllabus is a contract between teacher and student. By continuing in this class, you are agreeing to be bound by the policies laid out on this page. Failure to read or understand these policies does not excuse you from being governed by them.
 
+## Asking For Help
+
+Computers break all the time, more so when you actually try to use them to build anything. You will more than likely break something this semester, and part of this class's challenge to you is to learn how to help yourself, which is a harder challenge than you may think.
+
+When you are stuck, try to calm down (and I say this as someone who once got so mad at a program, he threw a computer out a window). Think about the problem you are having and how you might describe it to a search engine. Google your problem. If you don't get results that help, try asking in a few different ways.
+
+Learning how to ask programming-related questions is a surprisingly complex art, but the more time you spend analyzing and refining your questions, the better you will be.
+
+If you still can't figure out your problem from Google, try asking your classmates, especially in the `#01-discussion` channel on Slack.
+
+As a last resort, DM me on Slack or send me an email. In your email, describe in detail the problem that you are having (don't just say "I'm having a problem with MS Word" because aren't we all?).
+
+### Order of Asking For Help
+
+1. Google
+2. Classmates (ask in `#01-discussion` on Slack)
+3. Me (DM on Slack) 
+
 ## You Are Responsible For Your Success
 
 It is not my job to remind you to submit late work, provide documentation for absences you believe are eligible to be excused, or apprise you of all course material or announcements you may have missed during any absence. It is your responsibility to: 
