@@ -18,15 +18,15 @@ The [`units/`](units/) folder contains the schedule for course activities, and a
 	* Week 1: Getting Started
 		* Day 01: Course Overview
 		* Day 02: Vannevar Bush, ["As We May Think"](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
-		* Day 03: Finish Vannevar Bush
+		* Day 03: Writing Modes
 	* Week 2: Computerized Knowledge
 		* Day 04: Alan C. Kay, ["A Personal Computer For Children of All Ages"](https://www.mprove.de/diplom/gui/kay72.html)
 		* Day 05: Steven Levy, ["A Spreadsheet Way of Knowledge"](https://www.wired.com/2014/10/a-spreadsheet-way-of-knowledge/)
-		* Day 06: Finish Kay / Levy
+		* Day 06: 
 	* Week 3: Forms of Digital Texts I
 		* Day 07: Richard A Lanham, ["The Electronic Word: Literary Study and the Digital Revolution"](https://www.jstor.org.ezproxy.library.tamu.edu/stable/469101?seq=1)
 		* Day 08: Lev Manovich, "The Database" from *The Language of New Media*
-		* Day 09: Finish Lanham / Manovich
+		* Day 09: 
 	* Week 4: Forms of Digital Text II
 		* Day 10: [Karine Nahon and Jeff Hemsley, "Networked Changed Societies" in *Going Viral*](http://ebookcentral.proquest.com.ezproxy.library.tamu.edu/lib/tamucs/reader.action?docID=1578387)
 		* Day 11: Ian Bogost, "Procedural Rhetoric" from *Persuasive Games*
