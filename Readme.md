@@ -74,9 +74,9 @@ The [`units/`](units/) folder contains the schedule for course activities, and a
 		* Day 23: Working w/ Twine
 		* Day 24: Deploying Twine / Field Reports
 	* [Week 9: Tracery](units/02-tools/09-tracery)
-		* Day 25: 
-		* Day 26: 
-		* Day 27: 
+		* Day 25: Composing with Grammars / Writing for machines
+		* Day 26: Making Twitter Bots
+		* Day 27: Field Reports
 * **Unit 3: Practice**
 	* [Week 10: Finding a Project](units/03-practice/10-brainstorm)
 		* Day 28: 
