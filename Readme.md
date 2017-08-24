@@ -62,17 +62,17 @@ The [`units/`](units/) folder contains the schedule for course activities, and a
 		* Day 14: What is GitHub?
 		* Day 15: Activity / Field Reports
 	* [Week 6: Markdown](units/02-tools/06-markdown)
-		* Day 16: 
-		* Day 17: 
-		* Day 18: 
+		* Day 16: What is Markdown?
+		* Day 17: Where Can I Use Markdown?
+		* Day 18: Activity / Field Reports
 	* [Week 7: Jekyll](units/02-tools/07-jekyll)
-		* Day 19: 
-		* Day 20: 
-		* Day 21: 
+		* Day 19: The Lazy Web Developer
+		* Day 20: Working w/ Jekyll
+		* Day 21: Advanced Jekyll
 	* [Week 8: Twine](units/02-tools/08-twine)
-		* Day 22: 
-		* Day 23: 
-		* Day 24: 
+		* Day 22: What is/was Hypertext?
+		* Day 23: Working w/ Twine
+		* Day 24: Deploying Twine / Field Reports
 	* [Week 9: Tracery](units/02-tools/09-tracery)
 		* Day 25: 
 		* Day 26: 

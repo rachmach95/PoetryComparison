@@ -7,3 +7,9 @@ This week, we will be learning about Markdown, a simple language for writing con
 * [Monday—Lazy Markup](day16.md)
 * [Wednesday—What Else Can I Do?](day17.md)
 * [Friday—Activity and Field Reports](day18.md)
+
+## Journal Prompt
+
+### Part I: Reflect
+
+### Part II: Apply

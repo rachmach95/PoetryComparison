@@ -4,6 +4,12 @@ This week, we will be learning about [Jekyll](http://jekyllrb.com/), a Markdown-
 
 ## Course Meetings
 
-* [Monday—](day19.md)
-* [Wednesday—](day20.md)
-* [Friday—Activity and Field Reports](day21.md)
+* [Monday—The Lazy Web Developer](day19.md)
+* [Wednesday—Working w/ Jekyll](day20.md)
+* [Friday—Advanced Jekyll](day21.md)
+
+## Journal Prompt
+
+### Part I: Reflect
+
+### Part II: Apply
