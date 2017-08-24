@@ -3,6 +3,10 @@
 | Name | Value | Due Date |
 | ---- | ----- | -------- |
 | [Journal](#journal) | 25% | Weekly |
+| Final Project: [Collaboration Plan](#collaboration-plan) | 20% | |
+| Final Project: [Project Pitch](#project-pitch) | 10% | |
+| Final Project: [Artifact](#artifact) | 35% | |
+| Final Project: [Group Work Report](#group-work-report) | 10% | |
 
 ## Values
 
