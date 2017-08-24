@@ -43,8 +43,15 @@ Your group's proposal will have the following elements:
 * **Justification**: Why is your proposed design the most effective way of making this argument?
 * **Collaboration Plan**: Who in your group will be responsible for each task?
 * **Timeline**: When will each element of the artifact identified in the **Plan** be completed?
+	* Make sure to include the [**Mockup**](#mockup) and the [**Group Work Report**](#group-work-report) in your timeline.
 
 This proposal can take any form you want, though I will need an artifact. If you are most comfortable writing stuff, you can create a standard technical report. If you would prefer to try your hand at a pitch presentation, you can pitch it in class or to me in my office hours, or submit it as a narrated PowerPoint presentation (though we would need to chat on [Slack](https://engl460.slack.com) afterwards).
+
+#### Group Contract (optional)
+
+If you would like to set standards of accountability for your group members, please draw up a contract that will outline specific consequences for what happens if deadlines are not met, meetings are missed, or items in the plan are not completed. Draft this contract as you see fit and include it in the **Proposal** and I will provide feedback and suggest revisions before the contract becomes binding.
+
+If you choose to complete a group contract, we (your group and I) will be bound by its contents.
 
 #### Mockup
 
@@ -54,4 +61,17 @@ For instance, if you are making something using [Twine](https://twinery.org), yo
 
 #### Artifact
 
+This is the central focus of the project. You will need to create the artifact you described in your proposal and have demoed via your mock-up.
+
+Plan to do a demonstration of your project during the final two weeks of class. In this presentation, you outline your argument, show us your project, discuss the process of creating the artifact, reflect on how you would do the project differently, and 
+
 #### Group Work Report
+
+How did everything go? Write me a roughly one page reflection on:
+
+1. How you worked as a collaborator
+1. How your team members worked as collaborators
+1. What you did that worked
+1. What you did that did not work
+
+This document will be individually authored by each team member and will help me evaluate everyone's projects for the final course grade.
