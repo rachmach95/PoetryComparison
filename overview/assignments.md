@@ -1,7 +1,7 @@
 # Assignments
 
 | Name | Value | Due Date |
-:------:-----: | -------- |
+| ---- | ----- | -------- |
 | [Journal](#journal) | 25% | Weekly |
 
 ## Values
