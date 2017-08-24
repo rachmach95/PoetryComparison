@@ -1,5 +1,7 @@
 # Assignments
 
+## Values
+
 | Name | Value | Due Date |
 | ---- | ----- | -------- |
 | [Journal](#journal) | 25% | Weekly |
@@ -7,8 +9,6 @@
 | **Final Project:** [Mockup](#mockup) | 15% | |
 | **Final Project:** [Artifact](#artifact) | 35% | |
 | **Final Project:** [Group Work Report](#group-work-report) | 15% | |
-
-## Values
 
 ## Descriptions
 
@@ -34,7 +34,23 @@ Each week's Readme.md file contains a journal prompt that asks you to reflect an
 
 #### Proposal
 
+The first step for creating your final project artifact will be to propose your project. A proposal is a formal statement of intent that is a standard way of inaugurating and outlining a new project, though it is increasingly being replaced in business with the less formal pitch presentation.
+
+Your group's proposal will have the following elements:
+
+* **Overview**: What are you making? How will you make it? What will be the genre of the artifact? What argument is your artifact making?
+* **Plan**: What is the *detailed* plan for creating this artifact in support of your argument? Which technologies will you use? How will you share/create/access different assets you will need? What are the specific and detailed tasks you will need to complete to build your artifact?
+* **Justification**: Why is your proposed design the most effective way of making this argument?
+* **Collaboration Plan**: Who in your group will be responsible for each task?
+* **Timeline**: When will each element of the artifact identified in the **Plan** be completed?
+
+This proposal can take any form you want, though I will need an artifact. If you are most comfortable writing stuff, you can create a standard technical report. If you would prefer to try your hand at a pitch presentation, you can pitch it in class or to me in my office hours, or submit it as a narrated PowerPoint presentation (though we would need to chat on [Slack](https://engl460.slack.com) afterwards).
+
 #### Mockup
+
+After your proposal has been approved by me (and been evaluated by your peers, if you like), your group can start building a mockup. This can be at any level of sophistication you want and must conform to what you are proposing to build.
+
+For instance, if you are making something using [Twine](https://twinery.org), your mockup could be a collection of note cards that map out the space of your story. If you are making a website, you might create a [wireframe](https://en.wikipedia.org/wiki/Website_wireframe) or a series of rough drawings to outline how the site will work. If you are creating a video, you might create a [storyboard](https://en.wikipedia.org/wiki/Storyboard). How you do this is up to you, but the mockup needs to give some sense of how the finished product will work.
 
 #### Artifact
 
