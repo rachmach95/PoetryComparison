@@ -4,8 +4,8 @@ This week, we will be reading theory that asks what kinds of new knowledge forms
 
 ## Course Meetings
 
-* [Monday—Alan Kay](day04.md)
-* [Wednesday—Steven Levy](day05.md)
+* [Monday—Alan C. Kay, "A Personal Computer For Children of All Ages"](day04.md)
+* [Wednesday—Steven Levy, "A Spreadsheet Way of Knowledge"](day05.md)
 * [Friday—Modes & Affordances](day06.md)
 
 ## Questions As You Prepare For Class
@@ -16,3 +16,9 @@ This week, we will be reading theory that asks what kinds of new knowledge forms
 * What modes do you see the Dynabook and the spreadsheet foregrounding?
 	* What kinds of writing do they allow?
 	* What kinds of writing do they not allow?
+	
+## Journal Prompt
+
+### Part I: Reflect
+
+### Part II: Apply

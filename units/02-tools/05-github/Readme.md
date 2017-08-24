@@ -7,3 +7,9 @@ This week, we will be learning about [GitHub](https://github.com), [Google Drive
 * [Monday—Sharing is Caring](day13.md)
 * [Wednesday—What is GitHub?](day14.md)
 * [Friday—Activity and Field Reports](day15.md)
+
+## Journal Prompt
+
+### Part I: Reflect
+
+### Part II: Apply
