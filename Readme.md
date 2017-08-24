@@ -51,7 +51,7 @@ The [`units/`](units/) folder contains the schedule for course activities, and a
 	* [Week 3: Forms of Digital Texts I](units/01-theory/03-texts1)
 		* Day 07: Richard A Lanham, ["The Electronic Word: Literary Study and the Digital Revolution"](https://www.jstor.org.ezproxy.library.tamu.edu/stable/469101?seq=1)
 		* Day 08: Lev Manovich, "The Database" from *The Language of New Media*
-		* Day 09: 
+		* Day 09: Brainstorming
 	* [Week 4: Forms of Digital Text II](units/01-theory/04-texts2)
 		* Day 10: [Karine Nahon and Jeff Hemsley, "Networked Changed Societies" in *Going Viral*](http://ebookcentral.proquest.com.ezproxy.library.tamu.edu/lib/tamucs/reader.action?docID=1578387)
 		* Day 11: Ian Bogost, "Procedural Rhetoric" from *Persuasive Games*
