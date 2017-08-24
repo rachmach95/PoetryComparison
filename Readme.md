@@ -26,6 +26,8 @@ The [`units/`](units/) folder contains the schedule for course activities, and a
 
 ## Schedule
 
+*Readings not linked here are posted in `#04-readings` on [Slack](https://engl460.slack.com)*.
+
 * **Unit 1: Theory**
 	* [Week 1: Getting Started](units/01-theory/01-starting/)
 		* Day 01: Course Overview
