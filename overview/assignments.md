@@ -1,7 +1,5 @@
 # Assignments
 
-## Values
-
 | Name | Value | Due Date |
 | ---- | ----- | -------- |
 | [Journal](#journal) | 25% | Weekly |
@@ -10,9 +8,7 @@
 | **Final Project:** [Artifact](#artifact) | 35% | |
 | **Final Project:** [Group Work Report](#group-work-report) | 15% | |
 
-## Descriptions
-
-### Journal
+## Journal
 
 During class, you will keep a weekly journal in which you reflect on course discussion and apply what you have learned.
 
@@ -20,7 +16,15 @@ Journals are due on Wednesdays and you post them to our [Slack](https://engl460.
 
 Each week's Readme.md file contains a journal prompt that asks you to reflect and apply the lessons discussed in class during the week. Your response to the prompt should be shared with me on Slack by the following Wednesday.
 
-#### How To Journal on Slack
+### Learning Outcomes
+
+This assignment is meant to teach you how to:
+
+* Document your understanding of course goals by concreate reflection.
+* Identify key concepts from our reading & course discussion.
+* Apply these key concepts to real world examples of digital authoring.
+
+### How To Journal on Slack
 
 1. Find the "Direct Messages" section of the sidebar on Slack. It will list all the users in our course. One link will be to your username (it will also have " (you)" after the name to make sure you know that it is your account). Click on your name.
 1. You are now [direct message with yourself](https://www.youtube.com/watch?v=FG1NrQYXjLU). Click the "+" next to the post box (where it says "Jot something down"). This will open a new post window.
@@ -30,13 +34,27 @@ Each week's Readme.md file contains a journal prompt that asks you to reflect an
 1. At this point, the post will be private. Hit the green "Share" button in the upper right of the post editor. In the "Share with" dropdown, either select me "apilsch" or type "apilsch" to find me. Click "Share" to let me know you are done with your journal. I cannot give you credit for your journal entries until you share them with me.
 1. **(optional)** You may also share your journal entries to the `03-journals` channel to invite your classmates to read and comment on your posts.
 
-### Final Project
+## Final Project
 
 For the final project, you will work in groups to produce a digital artifact that uses the theories of digital text we discussed in the [theory section](../units/01-theory) and/or the technologies we discused in the [tools section](../units/02-tools) (as well as others you identify with your group and with my help). Your artifact must respond to a particular rhetorical situation and *make an argument* in some way (this argument can be about the nature of digital texts or it can be about anything else).
 
 The final project will be evaluated less on how polished your final artifact is and more on how thoroughly your group completes the scaffolding components and, most importantly, *how well your final artifact makes the argument you planned to make*.
 
 As to the specific genre or modes you use, this decision will be up to your group, though in learning [Jekyll](http://jekyllrb.com/), [Twine](https://twinery.org/), and [Tracery](http://tracery.io/), we have learned about three tools that could be used to create projects. You may also make a video or investigate another genre or problem space in which you would like to intervene.
+
+### Learning Outcomes
+
+This assignment is meant to teach you how to:
+
+* Formulate an argument that can be made using a digital text.
+* Work as a team to produce a persuasive digital text.
+* Plan and organize a team-driven project.
+* Use project management software to track and organize progress.
+* Design a digital text as a mockup and produce a final text from mockups.
+
+### Components
+
+There are four required and one optional component to the final project. Three of the required components and the optional component are to be completed and turned in as a group. The final component, [the Group Work Report](#group-work-report), will be turned in individually.
 
 #### Proposal
 

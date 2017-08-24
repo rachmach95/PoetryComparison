@@ -16,6 +16,17 @@ Register at [`https://join.slack.com/t/engl460/signup`](https://join.slack.com/t
 
 **You must sign up with a @tamu.edu email to be added to our course Slack.**
 
+## Learning Outcomes
+
+This course is designed to help you learn how to:
+
+* Explain with concrete examples how digital media are changing authoring practices.
+* Demonstrate an understanding of this change through the production of reflective and applied writing in a weekly format.
+* Respond and intervene in this change by using digital authoring practices to produce a compelling and persuasive digital artifact.
+* Work in teams to produce a digital artifact.
+* Use project management software such as Git and Slack to coordinate a distributed team project.
+* Build a basic but functional website.
+
 ## Overview of This Syllabus
 
 The syllabus you are reading is what is known as a Git repository. Git is a "distributed version control system" that is used in the software industry to track changes to a project as it develops. Hosting the class repo on [GitHub](https://github.com) also adds a social networking dimensioning to version control software. As we proceed in this class, the files you will be working with will be hosted here, so that you can download them and edit your own copy (more on this later).
@@ -83,7 +94,7 @@ The [`units/`](units/) folder contains the schedule for course activities, and a
 		* Day 37: Work in Teams
 		* Day 38: Thanksgiving Break (No Class)
 		* Day 39: Thanksgiving Break (No Class)
-	* [Week 14: Finishing Up](units/03-practice/14-demos)
+	* [Week 14: Finishing Up / Project Demo Days](units/03-practice/14-demos)
 		* Day 40: In-Class Consultations
 		* Day 41: In-Class Consultations
 		* Day 42: Demos!
