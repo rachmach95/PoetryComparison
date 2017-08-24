@@ -3,10 +3,10 @@
 | Name | Value | Due Date |
 | ---- | ----- | -------- |
 | [Journal](#journal) | 25% | Weekly |
-| Final Project: [Collaboration Plan](#collaboration-plan) | 20% | |
-| Final Project: [Project Pitch](#project-pitch) | 10% | |
-| Final Project: [Artifact](#artifact) | 35% | |
-| Final Project: [Group Work Report](#group-work-report) | 10% | |
+| **Final Project:** [Proposal](#proposal) | 15% | |
+| **Final Project:** [Mockup](#mockup) | 15% | |
+| **Final Project:** [Artifact](#artifact) | 35% | |
+| **Final Project:** [Group Work Report](#group-work-report) | 15% | |
 
 ## Values
 
@@ -26,16 +26,15 @@ Each week's Readme.md file contains a journal prompt that asks you to reflect an
 1. You are now [direct message with yourself](https://www.youtube.com/watch?v=FG1NrQYXjLU). Click the "+" next to the post box (where it says "Jot something down"). This will open a new post window.
 1. Title the post with your name and the week of the class (1, 2, 3). So, for instance, my title for week 3 would be "Andrew Pilsch Week 3 Journal".
 1. You can write your journal entry in the editor. Once we learn [Markdown](../units/02-tools/06-markdown), you can use Markdown in the editor. The post will automatically save.
-	* If you close the editor without finishing your post, you can get back to it by clicking on your icon in any Slack channel or DM conversation. Next to the "Edit Profile" button there is a button with a down arrow. Clicking this button brings up a dropdown menu with the option "View Your Files". Clicking that link will show you all the posts you've written.
-	* You can also visit [https://engl460.slack.com/files](https://engl460.slack.com/files) and click on "My Files" to see the list of posts.
+	* If you close the editor without finishing your post, you can get back to it by visiting [https://engl460.slack.com/files](https://engl460.slack.com/files) and click on "My Files" to see the list of posts.
 1. At this point, the post will be private. Hit the green "Share" button in the upper right of the post editor. In the "Share with" dropdown, either select me "apilsch" or type "apilsch" to find me. Click "Share" to let me know you are done with your journal. I cannot give you credit for your journal entries until you share them with me.
 1. **(optional)** You may also share your journal entries to the `03-journals` channel to invite your classmates to read and comment on your posts.
 
 ### Final Project
 
-#### Collaboration Plan
+#### Proposal
 
-#### Project Pitch
+#### Mockup
 
 #### Artifact
 
