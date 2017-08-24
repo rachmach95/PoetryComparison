@@ -32,6 +32,12 @@ Each week's Readme.md file contains a journal prompt that asks you to reflect an
 
 ### Final Project
 
+For the final project, you will work in groups to produce a digital artifact that uses the theories of digital text we discussed in the [theory section](../units/01-theory) and/or the technologies we discused in the [tools section](../units/02-tools) (as well as others you identify with your group and with my help). Your artifact must respond to a particular rhetorical situation and *make an argument* in some way (this argument can be about the nature of digital texts or it can be about anything else).
+
+The final project will be evaluated less on how polished your final artifact is and more on how thoroughly your group completes the scaffolding components and, most importantly, *how well your final artifact makes the argument you planned to make*.
+
+As to the specific genre or modes you use, this decision will be up to your group, though in learning [Jekyll](http://jekyllrb.com/), [Twine](https://twinery.org/), and [Tracery](http://tracery.io/), we have learned about three tools that could be used to create projects. You may also make a video or investigate another genre or problem space in which you would like to intervene.
+
 #### Proposal
 
 The first step for creating your final project artifact will be to propose your project. A proposal is a formal statement of intent that is a standard way of inaugurating and outlining a new project, though it is increasingly being replaced in business with the less formal pitch presentation.
