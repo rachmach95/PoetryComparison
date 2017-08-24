@@ -1,14 +1,16 @@
 # Assignments
 
+| Name | Value | Due Date |
+:------:-----: | -------- |
+| [Journal](#journal) | 25% | Weekly |
+
 ## Values
 
 ## Descriptions
 
-### Artifact Analyses
-
 ### Journal
 
-Until Week 11 (when you start working on your projects), you will keep a weekly journal in which you reflect on course discussion and apply what you have learned.
+During class, you will keep a weekly journal in which you reflect on course discussion and apply what you have learned.
 
 Journals are due on Wednesdays and you post them to our [Slack](https://engl460.slack.com).
 
