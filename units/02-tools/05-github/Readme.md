@@ -4,9 +4,9 @@ This week, we will be learning about [GitHub](https://github.com), [Google Drive
 
 ## Course Meetings
 
-* [Monday—Sharing is Caring](day13.md)
-* [Wednesday—What is GitHub?](day14.md)
-* [Friday—Activity and Field Reports](day15.md)
+* [Monday](day13.md)
+* [Wednesday](day14.md)
+* [Friday](day15.md)
 
 ## Journal Prompt
 
