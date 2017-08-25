@@ -2,7 +2,7 @@
 
 This week, we will be learning about [Jekyll](http://jekyllrb.com/), a Markdown-powered tool that makes it easy to make and host websites!
 
-## Course Meetings
+## Class Meetings
 
 * [Monday](day19.md)
 * [Wednesday](day20.md)

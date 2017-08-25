@@ -2,7 +2,7 @@
 
 This week, we will be reading theory that challenge us to think about what specific forms of writing are possible on the computer that weren't possible before.
 
-## Course Meetings
+## Class Meetings
 
 * [Monday](day10.md)
 * [Wednesday](day11.md)

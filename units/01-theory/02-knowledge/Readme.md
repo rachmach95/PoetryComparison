@@ -2,7 +2,7 @@
 
 This week, we will be reading theory that asks what kinds of new knowledge forms emerge from computerized writing.
 
-## Course Meetings
+## Class Meetings
 
 * [Monday](day04.md)
 * [Wednesday](day05.md)

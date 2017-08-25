@@ -2,7 +2,7 @@
 
 This week, we will be going over some basic course content and beginning our discussion of the digital.
 
-## Course Meetings
+## Class Meetings
 
 * [Monday](day01.md)
 * [Wednesday](day02.md)

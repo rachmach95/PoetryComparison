@@ -2,7 +2,7 @@
 
 This week, we will be learning about Markdown, a simple language for writing content for the web.
 
-## Course Meetings
+## Class Meetings
 
 * [Monday](day16.md)
 * [Wednesday](day17.md)
