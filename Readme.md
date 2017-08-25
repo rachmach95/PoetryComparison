@@ -58,28 +58,28 @@ The [`units/`](units/) folder contains the schedule for course activities, and a
 
 ### Unit 1: Theory
 
-* [**Week 1**: Getting Started](units/01-theory/week01.md)
-* [**Week 2**: Computerized Knowledge](units/01-theory/week02.md)
-* [**Week 3**: Forms of Digital Texts I](units/01-theory/week03.md)
-* [**Week 4**: Forms of Digital Texts II](units/01-theory/week04.md)
+* [**Week 1**: Getting Started](units/01-theory/01-starting/)
+* [**Week 2**: Computerized Knowledge](units/01-theory/02-knowledge)
+* [**Week 3**: Forms of Digital Texts I](units/01-theory/03-texts1)
+* [**Week 4**: Forms of Digital Texts II](units/01-theory/04-texts2)
 
 ### Unit 2: Tools
 
-* [**Week 5**: Google Drive, Dropbox, GitHub](units/02-tools/week05.md)
-* [**Week 6**: Markdown](units/02-tools/week06.md)
-* [**Week 7**: Jekyll](units/02-tools/week07.md)
-* [**Week 8**: Twine](units/02-tools/week08.md)
-* [**Week 9**: Tracery](units/02-tools/week09.md)
+* [**Week 5**: Google Drive, Dropbox, GitHub](units/02-tools/05-github)
+* [**Week 6**: Markdown](units/02-tools/06-markdown)
+* [**Week 7**: Jekyll](units/02-tools/07-jekyll)
+* [**Week 8**: Twine](units/02-tools/08-twine)
+* [**Week 9**: Tracery](units/02-tools/09-tracery)
 
 ### Unit 3: Practice
 
-* [**Week 10**: Finding a Project](units/03-practice/week10.md)
-* [**Week 11**: Sharing Digital Work](units/03-practice/week11.md)
+* [**Week 10**: Finding a Project](units/03-practice/10-brainstorm)
+* [**Week 11**: Sharing Digital Work](units/03-practice/11-share)
 	* **Proposal Due on Monday**
-* [**Week 12**: Working With Groups](units/03-practice/week12.md)
+* [**Week 12**: Working With Groups](units/03-practice/12-groupwork)
 	* **Mockup Due on Friday**
-* [**Week 13**: Thanksgiving](units/03-practice/week13.md)
-* [**Week 14**: Finishing Up / Project Demo Days](units/03-practice/week14.md)
-* [**Week 15**: Project Demo Days](units/03-practice/week14.md)
+* [**Week 13**: Thanksgiving](units/03-practice/13-teamwork)
+* [**Week 14**: Finishing Up / Project Demo Days](units/03-practice/14-demos)
+* [**Week 15**: Project Demo Days](units/03-practice/14-demos)
 	* **Revised Final Project Due 12/13**
 	* **Group Work Report Due 12/13**
