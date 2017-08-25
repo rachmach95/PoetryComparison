@@ -47,12 +47,6 @@ Per university policy, I cannot discuss grades via email. Please drop by my offi
 * D 60-69
 * F 59 or less
 
-### Feedback and Assignment Points
-
-Before each assignment, I will provide you with a copy of my grading rubric for the assignment to give you a sense of what I will be targeting in each assignment. This sheet will break down each component of your grade and add up to 100 points. I will read each assignment, mark up a rubric, and provide a few paragraphs of comments on your assignment.
-
-These points will be weighted according to the point breakdown described on [the Assignments page](assignments.html), which will determine your overall final grade.
-
 ## Absence / Tardiness
 
 Students are expected to attend all classes. Failure to do so, as part of a larger pattern of chronic tardiness and lateness, will result in consequences for your final grade.
@@ -74,7 +68,9 @@ Students are expected to attend all classes. Failure to do so, as part of a larg
 * Mandatory participation as a student-athlete in NCAA-sanctioned competition.
 * In accordance with Title IX of the Educational Amendments of 1972, Texas A&M University shall treat pregnancy (childbirth, false pregnancy, termination of pregnancy and recovery therefrom) and related conditions as a justification for an excused absence for so long a period of time as is deemed medically necessary by the student’s physician.  Requests for excused absence related to pregnancy should be directed to the instructor; questions about Title IX should be directed to the University Title IX Coordinator.
 
-### Note About Excused Absences
+Students may notify me of an excused absence before or after the absence but must do so within two weeks of the absence.
+
+### Note About Extended Excused Absences
 
 In the event of a chronic illness or other sudden condition that will result in significant time away from class, please inform of the situation before you return to class, so that we can work out how to handle the situation before it becomes an issue.
 
@@ -84,7 +80,7 @@ In the 21st century, it is unreasonable to accept "my computer died" as an excus
 
 ## Late Work
 
-Under Student Rule 7.4, I am under "under no obligation to provide an opportunity for the student to make up work missed because of an unexcused absence." As such, late assignments will not be graded. However, if you are having problems with an assignment or there are extenuating circumstances not covered under the execused absence policy, email me *24 hours* before the deadline of an assignment to discuss an extension.
+Under Student Rule 7.4, I am under "under no obligation to provide an opportunity for the student to make up work missed because of an unexcused absence." As such, late assignments will not be graded. However, if you are having problems with an assignment or there are extenuating circumstances not covered under the excused absence policy, email me *24 hours* before the deadline of an assignment to discuss an extension.
 
 ## Academic Integrity
 
