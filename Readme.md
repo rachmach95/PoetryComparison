@@ -63,7 +63,7 @@ The [`units/`](units/) folder contains the schedule for course activities, and a
 * [**Week 1**: Getting Started](units/01-theory/01-starting/)
 * [**Week 2**: Computerized Knowledge](units/01-theory/02-knowledge)
 * [**Week 3**: Forms of Digital Texts I](units/01-theory/03-texts1)
-* [**Week 4**: Forms of Digital Text II](units/01-theory/04-texts2)
+* [**Week 4**: Forms of Digital Texts II](units/01-theory/04-texts2)
 
 ### Unit 2: Tools
 
