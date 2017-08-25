@@ -5,7 +5,7 @@
 | [Journal](#journal) | Weekly | 25% |
 | *Final Project:* [Proposal](#proposal) | November 06, 2017 | 15% |
 | *Final Project:* [Mockup](#mockup) | November 17, 2017 | 15% |
-| *Final Project:* [Artifact](#artifact) | December 13, 2017 | 35% |
+| *Final Project:* [Artifact](#artifact) | December 13, 2017 | 30% |
 | *Final Project:* [Group Work Report](#group-work-report) | December 13, 2017 | 15% |
 
 ## Journal
