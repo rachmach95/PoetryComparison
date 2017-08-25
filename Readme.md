@@ -6,6 +6,10 @@ In this class, we will be exploring the theory and practice of digital writing. 
 
 **Prerequisites**: Undergraduate level ENGL 210 Minimum Grade of D 
 
+## Catalog Description
+
+Analysis and practice of authoring in digital environments, including individual and collaborative approaches, audience concerns, theoretical, ethical and stylistic issues; environments and topics may include web design, content management system (CMS), text encoding, project management, usability, version tracking, content authoring and accessibility.
+
 ## Course Information
 
 **Meeting Days**: Monday, Wednesday, & Friday  
