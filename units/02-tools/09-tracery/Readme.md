@@ -4,9 +4,9 @@ This week, we will be learning about [Tracery](http://tracery.io/), a tool that 
 
 ## Course Meetings
 
-* [Monday—Composing with Grammars / Writing for machines](day25.md)
-* [Wednesday—Making Twitter Bots](day26.md)
-* [Friday—Activity and Field Reports](day27.md)
+* [Monday](day25.md)
+* [Wednesday](day26.md)
+* [Friday](day27.md)
 
 ## Journal Prompt
 

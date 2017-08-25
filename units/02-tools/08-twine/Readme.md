@@ -4,9 +4,9 @@ This week, we will be learning about [Twine](https://twinery.org/), a program th
 
 ## Course Meetings
 
-* [Monday—What is/was Hypertext?](day22.md)
-* [Wednesday—Working w/ Twine](day23.md)
-* [Friday—Deploying Twine / Field Reports](day24.md)
+* [Monday](day22.md)
+* [Wednesday](day23.md)
+* [Friday](day24.md)
 
 ## Journal Prompt
 
