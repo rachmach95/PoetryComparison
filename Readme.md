@@ -98,13 +98,13 @@ The [`units/`](units/) folder contains the schedule for course activities, and a
 		* Day 29: 
 		* Day 30: Work in Teams
 	* [Week 11: Sharing Digital Work](units/03-practice/11-share)
-		* Day 31: 
+		* Day 31: **Proposal Due**
 		* Day 32: 
 		* Day 33: Work in Teams
 	* [Week 12: Working With Groups](units/03-practice/12-groupwork)
 		* Day 34: Work in Teams
 		* Day 35: Work in Teams
-		* Day 36: Work in Teams
+		* Day 36: Work in Teams **Mockup Due**
 	* [Week 13: Thanksgiving](units/03-practice/13-teamwork)
 		* Day 37: Work in Teams
 		* Day 38: Thanksgiving Break (No Class)
@@ -116,6 +116,8 @@ The [`units/`](units/) folder contains the schedule for course activities, and a
 	* [Week 15: Project Demo Days](units/03-practice/14-demos)
 		* Day 43: Demos!
 		* Day 44: Demos!
+			* **Revised Final Project Due 12/13**
+			* **Group Work Report Due 12/13**
 
 ## To Read
 
