@@ -4,9 +4,9 @@ This week, we will be reading theory that asks what kinds of new knowledge forms
 
 ## Course Meetings
 
-* [Monday—Alan C. Kay, "A Personal Computer For Children of All Ages"](day04.md)
-* [Wednesday—Steven Levy, "A Spreadsheet Way of Knowledge"](day05.md)
-* [Friday—Textual Modes](day06.md)
+* [Monday](day04.md)
+* [Wednesday](day05.md)
+* [Friday](day06.md)
 
 ## This Week's Readings
 

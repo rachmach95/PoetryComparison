@@ -4,9 +4,9 @@ This week, we will be reading theory that challenge us to think about what speci
 
 ## Course Meetings
 
-* [Monday—Ian Bogost, "Procedural Rhetoric" in *Persuasive Games*](day10.md)
-* [Wednesday—More Bogost](day11.md)
-* [Friday—Case Study / Brainstorming](day12.md)
+* [Monday](day10.md)
+* [Wednesday](day11.md)
+* [Friday](day12.md)
 
 ## This Week's Reading
 

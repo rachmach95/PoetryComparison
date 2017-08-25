@@ -4,9 +4,9 @@ This week, we will be reading theory that challenge us to think about what speci
 
 ## Course Meetings
 
-* [Monday—Richard A Lanham, "The Electronic Word: Literary Study and the Digital Revolution"](day07.md)
-* [Wednesday—Lev Manovich, "The Database" from *The Language of New Media*](day08.md)
-* [Friday—Modes & Affordances](day09.md)
+* [Monday](day07.md)
+* [Wednesday](day08.md)
+* [Friday](day09.md)
 
 ## This Week's Reading
 

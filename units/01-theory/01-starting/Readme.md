@@ -4,9 +4,9 @@ This week, we will be going over some basic course content and beginning our dis
 
 ## Course Meetings
 
-* [Monday—Syllabus + Digital?](day01.md)
-* [Wednesday—Vannevar Bush](day02.md)
-* [Friday—Using Slack](day03.md)
+* [Monday](day01.md)
+* [Wednesday](day02.md)
+* [Friday](day03.md)
 
 ## This Week's Readings
 
