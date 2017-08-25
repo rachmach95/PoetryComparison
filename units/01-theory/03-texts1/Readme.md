@@ -1,4 +1,4 @@
-# Welcome to Week 3
+# Welcome to Week 03
 
 This week, we will be reading theory that challenge us to think about what specific forms of writing are possible on the computer that weren't possible before.
 
@@ -6,12 +6,17 @@ This week, we will be reading theory that challenge us to think about what speci
 
 * [Monday—Richard A Lanham, "The Electronic Word: Literary Study and the Digital Revolution"](day07.md)
 * [Wednesday—Lev Manovich, "The Database" from *The Language of New Media*](day08.md)
-* [Friday—Case Study](day09.md)
+* [Friday—Modes & Affordances](day09.md)
 
-## Questions As You Prepare For Class
+## This Week's Reading
 
-* Is Richard Lanham excited about the forms of writing he sees enabled by computers?
-	* Why or why not?
+### Monday
+
+* Richard A Lanham, ["The Electronic Word: Literary Study and the Digital Revolution"](https://www.jstor.org.ezproxy.library.tamu.edu/stable/469101?seq=1)
+
+### Wednesday
+
+* Lev Manovich, "The Database" from *The Language of New Media* (on [Slack](https://engl460.slack.com/files))
 	
 ## Journal Prompt
 
