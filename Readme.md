@@ -65,53 +65,55 @@ The [`units/`](units/) folder contains the schedule for course activities, and a
 * [**Week 3**: Forms of Digital Texts I](units/01-theory/03-texts1)
 * [**Week 4**: Forms of Digital Text II](units/01-theory/04-texts2)
 
-* **Unit 2: Tools**
-	* [Week 5: Google Drive, Dropbox, GitHub](units/02-tools/05-github)
-		* Day 13: Sharing is Caring
-		* Day 14: What is GitHub?
-		* Day 15: Activity / Field Reports
-	* [Week 6: Markdown](units/02-tools/06-markdown)
-		* Day 16: What is Markdown?
-		* Day 17: Where Can I Use Markdown?
-		* Day 18: Activity / Field Reports
-	* [Week 7: Jekyll](units/02-tools/07-jekyll)
-		* Day 19: The Lazy Web Developer
-		* Day 20: Working w/ Jekyll
-		* Day 21: Advanced Jekyll
-	* [Week 8: Twine](units/02-tools/08-twine)
-		* Day 22: What is/was Hypertext?
-		* Day 23: Working w/ Twine
-		* Day 24: Deploying Twine / Field Reports
-	* [Week 9: Tracery](units/02-tools/09-tracery)
-		* Day 25: Composing with Grammars / Writing for machines
-		* Day 26: Making Twitter Bots
-		* Day 27: Field Reports
-* **Unit 3: Practice**
-	* [Week 10: Finding a Project](units/03-practice/10-brainstorm)
-		* Day 28: 
-		* Day 29: 
-		* Day 30: Work in Teams
-	* [Week 11: Sharing Digital Work](units/03-practice/11-share)
-		* Day 31: **Proposal Due**
-		* Day 32: 
-		* Day 33: Work in Teams
-	* [Week 12: Working With Groups](units/03-practice/12-groupwork)
-		* Day 34: Work in Teams
-		* Day 35: Work in Teams
-		* Day 36: Work in Teams **Mockup Due**
-	* [Week 13: Thanksgiving](units/03-practice/13-teamwork)
-		* Day 37: Work in Teams
-		* Day 38: Thanksgiving Break (No Class)
-		* Day 39: Thanksgiving Break (No Class)
-	* [Week 14: Finishing Up / Project Demo Days](units/03-practice/14-demos)
-		* Day 40: In-Class Consultations
-		* Day 41: In-Class Consultations
-		* Day 42: Demos!
-	* [Week 15: Project Demo Days](units/03-practice/14-demos)
-		* Day 43: Demos!
-		* Day 44: Demos!
-			* **Revised Final Project Due 12/13**
-			* **Group Work Report Due 12/13**
+### Unit 2: Tools
+
+* [Week 5: Google Drive, Dropbox, GitHub](units/02-tools/05-github)
+	* Day 13: Sharing is Caring
+	* Day 14: What is GitHub?
+	* Day 15: Activity / Field Reports
+* [Week 6: Markdown](units/02-tools/06-markdown)
+	* Day 16: What is Markdown?
+	* Day 17: Where Can I Use Markdown?
+	* Day 18: Activity / Field Reports
+* [Week 7: Jekyll](units/02-tools/07-jekyll)
+	* Day 19: The Lazy Web Developer
+	* Day 20: Working w/ Jekyll
+	* Day 21: Advanced Jekyll
+* [Week 8: Twine](units/02-tools/08-twine)
+	* Day 22: What is/was Hypertext?
+	* Day 23: Working w/ Twine
+	* Day 24: Deploying Twine / Field Reports
+* [Week 9: Tracery](units/02-tools/09-tracery)
+	* Day 25: Composing with Grammars / Writing for machines
+	* Day 26: Making Twitter Bots
+	* Day 27: Field Reports
+### Unit 3: Practice
+
+* [Week 10: Finding a Project](units/03-practice/10-brainstorm)
+	* Day 28: 
+	* Day 29: 
+	* Day 30: Work in Teams
+* [Week 11: Sharing Digital Work](units/03-practice/11-share)
+	* Day 31: **Proposal Due**
+	* Day 32: 
+	* Day 33: Work in Teams
+* [Week 12: Working With Groups](units/03-practice/12-groupwork)
+	* Day 34: Work in Teams
+	* Day 35: Work in Teams
+	* Day 36: Work in Teams **Mockup Due**
+* [Week 13: Thanksgiving](units/03-practice/13-teamwork)
+	* Day 37: Work in Teams
+	* Day 38: Thanksgiving Break (No Class)
+	* Day 39: Thanksgiving Break (No Class)
+* [Week 14: Finishing Up / Project Demo Days](units/03-practice/14-demos)
+	* Day 40: In-Class Consultations
+	* Day 41: In-Class Consultations
+	* Day 42: Demos!
+* [Week 15: Project Demo Days](units/03-practice/14-demos)
+	* Day 43: Demos!
+	* Day 44: Demos!
+		* **Revised Final Project Due 12/13**
+		* **Group Work Report Due 12/13**
 
 ## To Read
 
