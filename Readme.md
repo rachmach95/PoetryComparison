@@ -58,14 +58,13 @@ The [`units/`](units/) folder contains the schedule for course activities, and a
 
 *Readings not linked here are posted in `#04-readings` on [Slack](https://engl460.slack.com)*.
 
-* **Unit 1: Theory**
-	* [Week 1: Getting Started](units/01-theory/01-starting/)
-	* [Week 2: Computerized Knowledge](units/01-theory/02-knowledge)
-	* [Week 3: Forms of Digital Texts I](units/01-theory/03-texts1)
-	* [Week 4: Forms of Digital Text II](units/01-theory/04-texts2)
-		* Day 10: [Karine Nahon and Jeff Hemsley, "Networked Changed Societies" in *Going Viral*](http://ebookcentral.proquest.com.ezproxy.library.tamu.edu/lib/tamucs/reader.action?docID=1578387)
-		* Day 11: Ian Bogost, "Procedural Rhetoric" from *Persuasive Games*
-		* Day 12: Case Study / Brainstorming
+### Unit 1: Theory
+
+* [**Week 1**: Getting Started](units/01-theory/01-starting/)
+* [**Week 2**: Computerized Knowledge](units/01-theory/02-knowledge)
+* [**Week 3**: Forms of Digital Texts I](units/01-theory/03-texts1)
+* [**Week 4**: Forms of Digital Text II](units/01-theory/04-texts2)
+
 * **Unit 2: Tools**
 	* [Week 5: Google Drive, Dropbox, GitHub](units/02-tools/05-github)
 		* Day 13: Sharing is Caring
