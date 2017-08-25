@@ -8,6 +8,34 @@
 | **Final Project:** [Artifact](#artifact) | 35% | |
 | **Final Project:** [Group Work Report](#group-work-report) | 15% | |
 
+## Grading
+
+There is a growing body of scientific evidence ([click here for a summary and an explanation of what we will be doing in class](http://observer.com/2017/04/teachers-going-gradeless-education-reform-grades/)) that providing scores either along with or in place of commentary on student work, especially written work, does not produce the educational objectives schooling is meant to provide. Students are either discouraged by a bad score or made complacent by a good score. Numerical or letter grades are a distraction from learning.
+
+In this class especially, I want you to leave this semester with a better understanding of these technologies, how to use them, and why they matter to our changing world. As such, I will be providing extensive written feedback on everything you write for this class, both in terms of content and form, but I will not be placing an arbitrary number or letter on anything you write.
+
+If you would like to know how you are doing, please consult the [Descriptive Grading Criteria](./descriptive-grading-criteria.md) which provide language for mapping our learning objectives and your work to a letter grade. Though you will be required at the end of the semester to provide an argumentative justification, I will be more than happy to chat over [Slack](https://engl460.slack.com), email, or in person in office hours about how I see you doing and what you might need to be doing to improve. I will also be writing my feedback on your assignments based on the idea of helping you improve as a writer in both analog and digital forms.
+
+### Getting Your Grade
+
+Having said that, I am still required by the University to assign you a grade at the end of the semester. However, I want this grade to reflect how you and I think you have grown as a writer during the semester. As such, at the end of the semester, you will make an argument supported by evidence for how you think you did as a student in this class.
+
+I have supplied a list of [Descriptive Grading Criteria](./descriptive-grading-criteria.md) that will help you effectively argue for the grade you feel you have earned. Read over this list as you reflect on the work you produced and the learning you did to guide yourself toward an honest assessment of the work you did during the semester. The content of your argument will be drawn from the criteria and you must make use of its language in your argument. Once you have decided on the grade, you will need to document your argument in one of three ways:
+
+#### In-Person Conference
+
+Schedule a time to meet with me during finals week and we can spend 15 minutes or so going over the work you have done in which I will listen to and offer contributions to your argument for what grade you feel you deserve. At the end, we will arrive together on your final grade.
+
+If that sounds terrifying, you also have two options for documenting your grade without meeting in person (though I won't be able to help you along through your argument).
+
+#### Linked Letter
+
+Write me a [business letter](https://owl.english.purdue.edu/owl/resource/653/01/) laying out your argument. Link to the work you have done over the semester using hyperlinks, screenshots, or block quotes to show me *specific* evidence of how you have grown as a writer.
+
+#### Video
+
+You may also produce a video outlining the same argument. You will want to include visual evidence (using PowerPoint or screencasting tools) to make your argument. Pay special attention to the five modes in your video.
+
 ## Journal
 
 During class, you will keep a weekly journal in which you reflect on course discussion and apply what you have learned.
