@@ -1,7 +1,11 @@
-# Day 2 – Vannevar Bush
+# Day 05 – Spreadsheets!
 
-## Reading
+## Read Before Class
 
-Vannevar Bush, ["As We May Think"](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
+* Steven Levy, ["A Spreadsheet Way of Knowledge"](https://www.wired.com/2014/10/a-spreadsheet-way-of-knowledge/)
 
-## Background
+## Questions As You Prepare For Class
+
+* What does the spreadsheet do to writing and thinking practices?
+
+## Today's Outline

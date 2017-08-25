@@ -1,9 +1,10 @@
-# Day 3 – The Writing Modes
+# Day 03 – Using Slack
 
-## Being Multimodal
+## Questions As You Prepare For Class
 
-1. Linguistic
-1. Spatial
-1. Visual
-1. Aural
-1. Gestural
+* What problems have you found in using Slack?
+* What things are not clear?
+* What cool things have you figured out?
+	* How did you do so?
+	
+## Today's Outline

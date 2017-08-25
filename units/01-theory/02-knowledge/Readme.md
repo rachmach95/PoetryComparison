@@ -1,4 +1,4 @@
-# Welcome to Week 2
+# Welcome to Week 02
 
 This week, we will be reading theory that asks what kinds of new knowledge forms emerge from computerized writing.
 
@@ -6,19 +6,24 @@ This week, we will be reading theory that asks what kinds of new knowledge forms
 
 * [Monday—Alan C. Kay, "A Personal Computer For Children of All Ages"](day04.md)
 * [Wednesday—Steven Levy, "A Spreadsheet Way of Knowledge"](day05.md)
-* [Friday—Modes & Affordances](day06.md)
+* [Friday—Textual Modes](day06.md)
 
-## Questions As You Prepare For Class
+## This Week's Readings
 
-* What kind of device does Alan Kay imagine a computer can be?
-	* Why would this be revolutionary at the time he is writing?
-* What does the spreadsheet do to writing and thinking practices?
-* What modes do you see the Dynabook and the spreadsheet foregrounding?
-	* What kinds of writing do they allow?
-	* What kinds of writing do they not allow?
+### Monday
+
+* Alan C. Kay, ["A Personal Computer For Children of All Ages"](https://www.mprove.de/diplom/gui/kay72.html)
+
+### Wednesday
+
+* Steven Levy, ["A Spreadsheet Way of Knowledge"](https://www.wired.com/2014/10/a-spreadsheet-way-of-knowledge/)
 	
 ## Journal Prompt
 
 ### Part I: Reflect
 
+Are all texts multimodal? What if I told you they were. Would you believe me? Why or why not? Given that this syllabus is mostly a block of text written in a style roughly corresponding to a technical document, how would you describe it's multimodality? How would an essay be multimodal? If everything is multimodal, why is "multimodal" a useful concept?
+
 ### Part II: Apply
+
+Find a Twitter or Tumblr account you enjoy. Use the five modes to analyze how that user is making arguments about who they are as a person. Include a link to the account in question in your journal entry.
