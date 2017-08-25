@@ -68,13 +68,7 @@ The [`units/`](units/) folder contains the schedule for course activities, and a
 ### Unit 2: Tools
 
 * [Week 5: Google Drive, Dropbox, GitHub](units/02-tools/05-github)
-	* Day 13: Sharing is Caring
-	* Day 14: What is GitHub?
-	* Day 15: Activity / Field Reports
 * [Week 6: Markdown](units/02-tools/06-markdown)
-	* Day 16: What is Markdown?
-	* Day 17: Where Can I Use Markdown?
-	* Day 18: Activity / Field Reports
 * [Week 7: Jekyll](units/02-tools/07-jekyll)
 	* Day 19: The Lazy Web Developer
 	* Day 20: Working w/ Jekyll
