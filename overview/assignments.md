@@ -1,12 +1,12 @@
 # Assignments
 
-| Name | Value | Due Date |
-| ---- | ----- | -------- |
-| [Journal](#journal) | 25% | Weekly |
-| **Final Project:** [Proposal](#proposal) | 15% | |
-| **Final Project:** [Mockup](#mockup) | 15% | |
-| **Final Project:** [Artifact](#artifact) | 35% | |
-| **Final Project:** [Group Work Report](#group-work-report) | 15% | |
+| Assignment | Due Date | Value |
+|------------|----------|-------|
+| [Journal](#journal) | Weekly | 25% |
+| *Final Project:* [Proposal](#proposal) | November 06, 2017 | 15% |
+| *Final Project:* [Mockup](#mockup) | November 17, 2017 | 15% |
+| *Final Project:* [Artifact](#artifact) | December 13, 2017 | 35% |
+| *Final Project:* [Group Work Report](#group-work-report) | December 13, 2017 | 15% |
 
 ## Journal
 
