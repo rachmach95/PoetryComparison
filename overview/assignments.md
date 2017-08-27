@@ -2,11 +2,21 @@
 
 | Assignment | Due Date | Value |
 |------------|----------|-------|
-| [Journal](#journal) | Weekly | 35% |
+| [Participation](#participation) | Daily | 10% |
+| [Journal](#journal) | Weekly | 25% |
 | *Final Project:* [Proposal](#proposal) | November 06, 2017 | 15% |
 | *Final Project:* [Mockup](#mockup) | November 17, 2017 | 15% |
 | *Final Project:* [Artifact](#artifact) | December 13, 2017 | 25% |
 | *Final Project:* [Group Work Report](#group-work-report) | December 13, 2017 | 10% |
+
+## Participation
+
+Participation involves showing up for class but it also involves more than that. To get full credit for participation, you can throughout the semester:
+
+* Ask a substantive question in class
+* Ask the same question on `#01-discussion` on [Slack](https://engl460.slack.com) during class.
+* Drop by office hours to get help or talk over an issue.
+* Take detailed notes in class and share them on [Slack](https://engl460.slack.com).
 
 ## Journal
 
