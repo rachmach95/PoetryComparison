@@ -4,7 +4,7 @@ This week, we will be going over some basic course content and beginning our dis
 
 ## Class Meetings
 
-* [Monday](day01.md)
+* ~~Monday~~
 * [Wednesday](day02.md)
 * [Friday](day03.md)
 

@@ -1,13 +1,13 @@
-# Day 02 – Vannevar Bush
-
-## Read Before Class
-
-* Vannevar Bush, ["As We May Think"](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
-
-## Questions As You Prepare For Class
-
-* What problem is Vannevar Bush solving by writing this essay?
-* How does the organization of information Bush describes, change our understanding of writing?
-* What does a Memex look like?
+# Day 01: Syllabus + What is the Digital?
 
 ## Today's Outline
+
+1. Let's go over the syllabus
+1. What is the Digital?
+	* What is analog?
+1. Why does this matter to writing?
+	* Friedrich Kittler:  
+		> "[software] also seems to hide the very act of writing: we do not write anymore"
+	* Vilém Flusser:  
+		> "Writing, in the sense of placing letters and other marks one after another, appears to have little or no future. Information is now more effectively transmitted by codes other than those of written signs. What was once written can now be conveyed more effectively on tapes, records, films, videotapes, videodisks, or computer disks…"
+1. How do we write today? Where do we write?
