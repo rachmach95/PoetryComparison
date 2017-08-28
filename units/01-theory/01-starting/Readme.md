@@ -10,7 +10,7 @@ This week, we will be going over some basic course content and beginning our dis
 
 ## This Week's Readings
 
-### Wednesday
+### Friday
 
 * Vannevar Bush, ["As We May Think"](https://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/)
 
