@@ -17,8 +17,8 @@ As a last resort, DM me on Slack or send me an email. In your email, describe in
 ### Order of Asking For Help
 
 1. Google
-2. Classmates (ask in `#01-discussion` on Slack)
-3. Me (DM on Slack) 
+2. Classmates (ask in `#01-discussion` on [Slack](https://engl460.slack.com))
+3. Me (DM on [Slack](https://engl460.slack.com)) 
 
 ## You Are Responsible For Your Success
 
