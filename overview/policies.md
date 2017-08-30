@@ -74,13 +74,13 @@ Students may notify me of an excused absence before or after the absence but mus
 
 In the event of a chronic illness or other sudden condition that will result in significant time away from class, please inform of the situation before you return to class, so that we can work out how to handle the situation before it becomes an issue.
 
-### Technology
-
-In the 21st century, it is unreasonable to accept "my computer died" as an excuse for late work. If you are working on assignments on a computer, please back up your work offsite. Sites such as [Dropbox](https://www.dropbox.com/) and [Google Drive](https://drive.google.com/) provide space for storing copies of your work; even a USB drive can be enough. Save multiple times throughout each work session to both your backup and your computer's copy. As a rule, I hold you accountable for making sure your technology is working correctly.
-
 ## Late Work
 
 Under Student Rule 7.4, I am under "under no obligation to provide an opportunity for the student to make up work missed because of an unexcused absence." As such, late assignments will not be graded. However, if you are having problems with an assignment or there are extenuating circumstances not covered under the excused absence policy, email me *24 hours* before the deadline of an assignment to discuss an extension.
+
+### Technology
+
+In the 21st century, it is unreasonable to accept "my computer died" as an excuse for late work. If you are working on assignments on a computer, please back up your work offsite. Sites such as [Dropbox](https://www.dropbox.com/) and [Google Drive](https://drive.google.com/) provide space for storing copies of your work; even a USB drive can be enough. Save multiple times throughout each work session to both your backup and your computer's copy. As a rule, I hold you accountable for making sure your technology is working correctly.
 
 ## Academic Integrity
 
