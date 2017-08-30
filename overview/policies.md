@@ -1,10 +1,3 @@
----
-page_link_name: "Policies"
-page_sidebar_widgets:
-- instructor-info
-- toc
----
-
 # Course Policies
 
 These are the policies that govern our class. You are responsible for knowing the information on this page *before contacting me regarding policy questions*.
