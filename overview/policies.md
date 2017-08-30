@@ -30,6 +30,8 @@ Students are expected to attend all classes. Failure to do so, as part of a larg
 
 **Tardiness** is defined as an arrival after the first five minutes of class. This behavior, while sometimes unavoidable, is disruptive. If you are running late, please do your best to enter the classroom quietly and find the first and most easily accessible seat available.
 
+Tardies count as one half an unexcused absence. Your grade will be lowered after you have reached the equivalent of two unexcused absences.
+
 ### Excused Absences
 
 [Student Rule 7](http://student-rules.tamu.edu/rule07) covers the cases in which absences will be excused and in which late work will be tolerated. The following conditions will be excused:
