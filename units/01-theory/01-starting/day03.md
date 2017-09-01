@@ -7,7 +7,7 @@
 ## Questions As You Prepare For Class
 
 * What problem is Vannevar Bush solving by writing this essay?
-* How does the organization of information Bush describes, change our understanding of writing?
+* How does the organization of information Bush describes change our understanding of writing?
 * What does a Memex look like?
 
 ## Today's Outline
