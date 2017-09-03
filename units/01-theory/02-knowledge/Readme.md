@@ -16,7 +16,7 @@ This week, we will be reading theory that asks what kinds of new knowledge forms
 
 ### Wednesday
 
-* Steven Levy, ["A Spreadsheet Way of Knowledge"](https://www.wired.com/2014/10/a-spreadsheet-way-of-knowledge/)
+* ~~Steven Levy, ["A Spreadsheet Way of Knowledge"](https://www.wired.com/2014/10/a-spreadsheet-way-of-knowledge/)~~
 	
 ## Journal Prompt
 
@@ -26,4 +26,4 @@ Are all texts multimodal? What if I told you they were. Would you believe me? Wh
 
 ### Part II: Apply
 
-Find a Twitter or Tumblr account you enjoy. Use the five modes to analyze how that user is making arguments about who they are as a person. Include a link to the account in question in your journal entry.
+Find a Twitter or Tumblr account you enjoy. Use the five modes to analyze how that user is making arguments about who they are as a person. Include a link to the account in question in your journal entry. You may also write about Slack, if you prefer.

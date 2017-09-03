@@ -2,9 +2,8 @@
 
 ## Questions As You Prepare For Class
 
-* What things do you see the Dynabook and the spreadsheet foregrounding?
-	* What kinds of writing do they allow?
-	* What kinds of writing do they not allow?
+* What does the Dynabook allow you to do as a writer? What kinds of things are prevented?
+* Same question as above but about Slack.
 	
 ## Today's Outline
 
