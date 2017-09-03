@@ -22,4 +22,8 @@ This week, we will be reading theory that challenge us to think about what speci
 
 ### Part I: Reflect
 
+Do Lanham and Manovich's optimism about the ability for computerized writing to reshape and extend learning, inquiry, and creativity seem born out now that we are reading this years later? Why or why not? Where do you think this optimism comes from? Is there any new technology today that you see people being similarly excited about?
+
 ### Part II: Apply
+
+Thinking about Manovich and Lanham, what kinds of texts could you imagine making with the affordances of the computer? What do Manovich and Lanham leave out?
