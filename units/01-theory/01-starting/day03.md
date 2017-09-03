@@ -1,4 +1,4 @@
-# Day 02 – Vannevar Bush
+# Day 03 – Vannevar Bush
 
 ## Read Before Class
 
