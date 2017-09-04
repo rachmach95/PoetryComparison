@@ -66,3 +66,8 @@
 
 * [Logo](http://www.calormen.com/jslogo)
 * [Scratch](http://scratch.mit.edu)
+
+## For Wednesday
+
+* **Write your practice journal entry and share it with me on Slack!**
+	* [Journal Prompt](../../01-theory/01-starting/#journal-prompt)
