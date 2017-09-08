@@ -7,8 +7,4 @@
 	
 ## Today's Outline
 
-1. Linguistic
-1. Spatial
-1. Visual
-1. Aural
-1. Gestural
+* [Slides Online At](http://oncomouse.github.io/slides/courses/engl460/06.modes.html)
