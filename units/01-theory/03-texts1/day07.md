@@ -65,9 +65,9 @@ depending on the throw of a dice or on chance; random.
 #### Examples
 
 * [@poem_exe](https://twitter.com/poem_exe)
+* [@the_ephemerides](https://twitter.com/the_ephemerides)
+* [@str_voyage](https://twitter.com/str_voyage)
 * [@mothgenerator](https://twitter.com/mothgenerator)
 * [@TwoHeadlines](https://twitter.com/TwoHeadlines)
-* [@soft_focuses](https://twitter.com/soft_focuses)
 * [Taroko Gorge](http://nickm.com/taroko_gorge/original.html)
 * [@pentametron](https://twitter.com/pentametron)
-* [@RestroomGender](https://twitter.com/RestroomGender)
