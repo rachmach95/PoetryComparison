@@ -36,7 +36,11 @@ Thinking about Manovich and Lanham, what kinds of texts could you imagine making
 
 ### Part I: Reflect
 
+Are video games art? Are they writing? Why or why not? Use the texts we have been discussing in this unit in your discussion as evidence in your argument.
+
 ### Part II: Apply
+
+What is a video game you have encountered that seems to make a particular argument? If you have a favorite game that you think does not make an argument, can you consider it more in depth and analyze its argument?
 
 ## Journal Entry 5 – 10.04.2017
 
