@@ -46,3 +46,5 @@
 	* [today](http://www.tamu.edu/)
 	* [2013](https://web.archive.org/web/20130201021205/http://www.tamu.edu/)
 	* [2005](https://web.archive.org/web/20050205013307/http://www.tamu.edu:80/)
+	
+![](https://imgs.xkcd.com/comics/university_website.png)
