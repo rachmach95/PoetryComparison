@@ -13,9 +13,3 @@ This week, we will be learning about Markdown, a simple language for writing con
 ### Monday
 
 * [Writing with Markdown for Better Content & HTML: Why & How To](https://moz.com/blog/markdown)
-
-## Journal Prompt
-
-### Part I: Reflect
-
-### Part II: Apply

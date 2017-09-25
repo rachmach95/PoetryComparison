@@ -7,9 +7,3 @@ This week, we will be learning about [Jekyll](http://jekyllrb.com/), a Markdown-
 * [Monday](day19.md)
 * [Wednesday](day20.md)
 * [Friday](day21.md)
-
-## Journal Prompt
-
-### Part I: Reflect
-
-### Part II: Apply

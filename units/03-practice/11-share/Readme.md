@@ -10,9 +10,3 @@
 
 * [Proposal](../../overview.md#proposal)
 	* Due Monday, November 06
-	
-## Journal Prompt
-
-### Part I: Reflect
-
-### Part II: Apply

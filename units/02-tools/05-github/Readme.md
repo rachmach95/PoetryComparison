@@ -7,9 +7,3 @@ This week, we will be learning about [GitHub](https://github.com), [Google Drive
 * [Monday](day13.md)
 * [Wednesday](day14.md)
 * [Friday](day15.md)
-
-## Journal Prompt
-
-### Part I: Reflect
-
-### Part II: Apply
