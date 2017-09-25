@@ -37,7 +37,7 @@ Google Forms lets you collect data from users and store it in a Google Sheets sp
 
 Google Sheets might be the most powerful app on Drive. It is useful for spreadsheet stuff, of course, but because of it's Application Programming Interface (API), Sheets is often used as a database for online applications.
 
-[**Storyline**](storyline.knightlab.com) is a project that makes interactive, embedded timelines using Google Sheets.
+[**Storyline**](http://storyline.knightlab.com) is a project that makes interactive, embedded timelines using Google Sheets.
 
 Their website has a tutorial, but if you'd like to try here's a dataset: [Population Growth by Year](https://docs.google.com/spreadsheets/d/1gr0xwj9Go7Hn0MlTeye3orjyDWoXMytQJtw1xYEqtkI/edit?usp=sharing). You'll have to choose a particular country to visualize.
 
