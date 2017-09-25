@@ -46,7 +46,11 @@ What is a video game you have encountered that seems to make a particular argume
 
 ### Part I: Reflect
 
+Do you find that collaborative writing does or might imply different strategies for writing? If so, what do you do to manage collaborative writing? If not, why not?
+
 ### Part II: Apply
+
+How do you imagine using collaborative tools for your final project? How have you used these tools in the past? What projects could you imagine doing with them?
 
 ## Journal Entry 6 – 10.11.2017
 
