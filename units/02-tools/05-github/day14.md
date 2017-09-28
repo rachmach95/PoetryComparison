@@ -63,5 +63,6 @@ I've added a sign-in sheet (`sign-in.md`) to the repo. Fork my repo, edit it by 
 1. After it finishes, edit `sign-in.md` and add your first name or handle.
 1. Save and commit the changes, as per normal.
 1. Visit [https://github.com/oncomouse/engl460fall2017](https://github.com/oncomouse/engl460fall2017) again and click "New Pull Request", which is on the left, right about the list of files.
+1. Click the link that reads "Compare Across Forks"
 1. For the base branch, choose your repo (`<your-username>/master`) and for the head branch, choose `oncomouse/master`
 1. Click "Create pull request" and fill out the forms. Once it is submitted, I will have a record that you have completed the assignment.
